@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/app.dir/main.cpp.o -o app   -L/home/code/test-cmake/v3/lib1  -Wl,-rpath,/home/code/test-cmake/v3/lib1 -lcalc 
